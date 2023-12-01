@@ -1,0 +1,9 @@
+#root {
+  @apply m-auto w-full;
+}
+th {
+  @apply px-1 py-4 font-semibold text-left;
+}
+td {
+  @apply px-1 py-4 border-t;
+}
